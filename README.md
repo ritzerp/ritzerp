@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on railway operations and demand responsive transport (DRT)
-- 🌱 I’m currently learning how to apply machine learning to problems in railway operations
-- 👯 I’m looking to collaborate on DRT algorithms
+- 🔭 I’m currently working on railway operations, machine learning and demand responsive transport (DRT)
+- 🌱 I’m currently learning how to combine reinforcement learning with simulation of railway operations
+- 👯 I’m looking to collaborate on DRT algorithms and reinforcement learning
 
 <!--
 **ritzerp/ritzerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
