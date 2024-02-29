@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on railway simulations and machine learning
-- 🌱 I’m currently learning how to deploy services within a cloud environment
-- 👯 I’m looking to collaborate on railway simulations and machine learning
+- 🌱 I’m currently learning how to manage a complex product within a cloud environment
+- 👯 I’m looking to collaborate on data science, railway simulations and machine learning
 
 <!--
 **ritzerp/ritzerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
